@@ -12,3 +12,7 @@ nav {
   color: blue;
   text-align:center;
 }
+
+a {
+  background: gray;
+}
